@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{62096B60-E777-BF6C-1C00-1556D4DA1D6D}") = "timer practice", "Assembly-CSharp-firstpass.csproj", "{441F5BE8-C016-360E-E7E1-41547793F7C9}"
+EndProject
+Project("{62096B60-E777-BF6C-1C00-1556D4DA1D6D}") = "timer practice", "Assembly-CSharp.csproj", "{C83D790A-BEE8-DC45-497B-D5B66CB5AAEA}"
+EndProject
+Project("{62096B60-E777-BF6C-1C00-1556D4DA1D6D}") = "timer practice", "Assembly-CSharp-Editor.csproj", "{563E4D1E-4620-5064-3FEF-E0FB6652B64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441F5BE8-C016-360E-E7E1-41547793F7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441F5BE8-C016-360E-E7E1-41547793F7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441F5BE8-C016-360E-E7E1-41547793F7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441F5BE8-C016-360E-E7E1-41547793F7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83D790A-BEE8-DC45-497B-D5B66CB5AAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83D790A-BEE8-DC45-497B-D5B66CB5AAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83D790A-BEE8-DC45-497B-D5B66CB5AAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83D790A-BEE8-DC45-497B-D5B66CB5AAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563E4D1E-4620-5064-3FEF-E0FB6652B64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563E4D1E-4620-5064-3FEF-E0FB6652B64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563E4D1E-4620-5064-3FEF-E0FB6652B64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563E4D1E-4620-5064-3FEF-E0FB6652B64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
